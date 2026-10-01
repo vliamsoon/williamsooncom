@@ -2,6 +2,12 @@
 
 This is a static website. It does not require npm, a build command, or environment variables.
 
+## Upload to GitHub
+
+1. Create a new GitHub repository.
+2. Extract this ZIP and upload its contents to the repository root. Keep the `assets` folder intact.
+3. Commit the files.
+
 ## Deploy with Vercel
 
 1. In Vercel, choose **Add New → Project** and import the GitHub repository.
